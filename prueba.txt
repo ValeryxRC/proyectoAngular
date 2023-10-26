@@ -1,3 +1,6 @@
 esto es una prueba
+B soy una rama B 
+y estoy editando estas lineas B
+=======
 Soy Una Rama A
 A edito este codigo
